@@ -1781,7 +1781,7 @@ Device Locator=デバイス位置
 Bank Locator=バンク位置
 ***Memory Technology=Memoria technologia
 ***Memory Operating Modes=Memoria mukodesi modok
-***Firmware Version=Firmware verzio
+Firmware Version=ファームウェアバージョン
 
 System Slot Properties=システムスロットのプロパティ
 Slot Designation=スロット
@@ -2080,7 +2080,7 @@ Award BIOS Type=Award BIOSタイプ
 Award BIOS Message=Award BIOSメッセージ
 System BIOS Date=システムBIOSの日付
 System BIOS Version=システムBIOSのバージョン
-***Embedded Controller Firmware Version=Embedded Controller ファームウェアバージョン
+Embedded Controller Firmware Version=Embedded Controller ファームウェアバージョン
 Video BIOS Date=ビデオBIOSの日付
 BIOS Date=BIOSの日付
 IBM BIOS Model Number=IBM BIOSモデルナンバー
@@ -2353,7 +2353,7 @@ Minimum Password Length=最短パスワード長
 Password History Length=パスワード長のヒストリー
 Lockout Threshold=ロックアウトしきい値
 Lockout Duration=ロックアウト持続期間
-Lockout Observation Window=ロックアウト観察ウィンドウ
+Lockout Observation Window=ロックアウト監視ウィンドウ
 
 User Properties=ユーザーのプロパティ
 Comment=コメント
