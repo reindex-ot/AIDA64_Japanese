@@ -368,7 +368,7 @@ Scanning Windows Devices=Windowsデバイスを読み込み中
 Scanning PCI Devices=PCIデバイスを読み込み中
 Measuring CPU Speed=CPUクロックを計測中
 Updating Windows Devices=Windowsデバイスの更新中
-Detecting sensor information=センサー情報の検知中
+Detecting sensor information=センサー情報の取得中
 Waking up GPUs=GPUの起動
 
 // internet update
@@ -1594,7 +1594,7 @@ Critical Level=重大なレベル
 +Metric=+メートル
 U.S.=U.S.
 Folder=フォルダー
-Week %d=%d 週
+Week %d=%d
 DMI information may be inaccurate or corrupted=DMI情報は不正確または改ざんされているかもしれません
 Accuracy of DMI data cannot be guaranteed=DMIデータの正確性は保証出来ません
 The above statistics are based on System Event Log entries=上記の統計はシステムイベントのログエントリーに基づきます
@@ -2026,12 +2026,12 @@ Product Information=製品情報
 BIOS Download=BIOSのダウンロード
 
 Physical Memory=物理メモリ
-Free Memory=空きメモリ
-***Free Virtual Memory=Szabad virtualis memoria
-Total=総容量
-Used=使用量
-Free=空き容量
-Utilization=使用率
+Free Memory=メモリ空き容量
+Free Virtual Memory=仮想メモリ空き容量
+Total=総メモリ容量
+Used=メモリ使用量
+Free=メモリ空き容量
+Utilization=メモリ使用率
 Swap Space=スワップ領域
 Virtual Memory=仮想メモリ
 Paging File=ページングファイル
@@ -3001,8 +3001,8 @@ Power Management Properties=パワーマネジメントのプロパティ
 Power Management Features=パワーマネジメントの詳細
 Current Power Source=現在の電源
 Battery Status=バッテリーステータス
-Full Battery Lifetime=十分なバッテリー時間
-Remaining Battery Lifetime=バッテリー残り時間
+Full Battery Lifetime=最大バッテリー使用可能時間
+Remaining Battery Lifetime=バッテリー使用可能時間
 
 Battery Properties=バッテリーのプロパティ
 Unique ID=ユニークID
@@ -3217,8 +3217,8 @@ INI file=INIファイル
 INI group=INIグループ
 INI entry=INIエントリ
 
-Chassis Intrusion Detected=PCケースの開放が検知されました
-PSU Failure Detected=PSUの失敗が検知されました
+Chassis Intrusion Detected=PCケースが開放されているか
+PSU Failure Detected=PSUに失敗したか
 Supported FourCC Codes=FourCC Codesをサポートしています
 
 PCI-X Bus Properties=PCI-Xバスのプロパティ
@@ -3685,8 +3685,8 @@ Build date:=ビルド日:
 ***Maintenance expiry:=Frissitesi idoszak vege:
 ***No Expiry=Nincs lejarat
 ***Click here to buy now=Kattintson ide a vasarlashoz
-TRIAL=トライアル
-TRIAL VERSION=TRIAL VERSION
+TRIAL=体験
+TRIAL VERSION=体験版
 Unlimited=無制限
 
 // Translate this one as "electric current", and NOT as "actual"
