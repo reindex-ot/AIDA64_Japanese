@@ -3679,15 +3679,16 @@ About AIDA64=AIDA64について
 Product:=プロダクト:
 Version:=バージョン:
 Build date:=ビルド日:
-***Purchase date:=Vasarlas datuma:
-***License count:=Licenc darabszam:
-***License expiry:=Licenc lejarata:
-***Maintenance expiry:=Frissitesi idoszak vege:
-***No Expiry=Nincs lejarat
-***Click here to buy now=Kattintson ide a vasarlashoz
-TRIAL=体験
-TRIAL VERSION=体験版
-Unlimited=無制限
+Purchase date:=購入日:
+License count:=ライセンス数:
+License expiry:=ライセンス有効期限:
+Maintenance expiry:=メンテナンス期限:
+No Expiry=期限なし
+//　以下4つを変更するとバージョン情報ウィンドウが文字化けするので変更しないこと
+Click here to buy now=Click here to buy now
+TRIAL=TRIAL
+TRIAL VERSION=TRIAL VERSION
+Unlimited=Unlimited
 
 // Translate this one as "electric current", and NOT as "actual"
 // Important: The # character has to be the first character at both sides!
