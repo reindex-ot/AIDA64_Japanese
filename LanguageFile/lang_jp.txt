@@ -13,7 +13,7 @@
 // これは非公式にAIDA64のlang_jp.txtを更新した物です。翻訳が放置されていたので勝手に更新をした物なので公式にはマージされないでしょう。
 // それにしても放置してる箇所多いな...
 
-// application menus
+// アプリケーションメニュー
 &File=ファイル(&F)
 &View=表示(&V)
 &Report=レポート(&R)
@@ -308,7 +308,7 @@ Value After=以後の値
 Added=追加された
 Removed=取り除かれた
 Changed=変更された
-%d events=%dイベント
+%d events=%d イベント
 Load reports from:=レポートを読み込む:
 &Folder (CSV report files):=フォルダー (CSVレポートファイル)(&F):
 Filter=フィルター
@@ -1972,7 +1972,7 @@ Memory Utilization=メモリ使用率
 Virtual Memory Utilization=仮想メモリー使用率
 Video Memory Utilization=ビデオメモリー使用率
 System Utilization=システム使用率
-***Swap Space Utilization=Lapozoterulet kihasznaltsag
+Swap Space Utilization=スワップ領域使用率
 ***Drive %s Utilization=%s meghajto kihasznaltsag
 ***Drive %s Used Space=%s meghajto foglalt terulet
 ***%s Used Space=%s foglalt terulet
@@ -2242,19 +2242,19 @@ GPU10 Memory=GPU10メモリ
 GPU11 Memory=GPU11メモリ
 GPU12 Memory=GPU12メモリ
 GPU%d Memory=GPU%dメモリ
-***GPU Memory #%d=GPU memoria #%d
-***GPU1 Memory #%d=GPU1 memoria #%d
-***GPU2 Memory #%d=GPU2 memoria #%d
-***GPU3 Memory #%d=GPU3 memoria #%d
-***GPU4 Memory #%d=GPU4 memoria #%d
-***GPU5 Memory #%d=GPU5 memoria #%d
-***GPU6 Memory #%d=GPU6 memoria #%d
-***GPU7 Memory #%d=GPU7 memoria #%d
-***GPU8 Memory #%d=GPU8 memoria #%d
-***GPU9 Memory #%d=GPU9 memoria #%d
-***GPU10 Memory #%d=GPU10 memoria #%d
-***GPU11 Memory #%d=GPU11 memoria #%d
-***GPU12 Memory #%d=GPU12 memoria #%d
+GPU Memory #%d=GPU メモリー #%d
+GPU1 Memory #%d=GPU1 メモリー #%d
+GPU2 Memory #%d=GPU2 メモリー #%d
+GPU3 Memory #%d=GPU3 メモリー #%d
+GPU4 Memory #%d=GPU4 メモリー #%d
+GPU5 Memory #%d=GPU5 メモリー #%d
+GPU6 Memory #%d=GPU6 メモリー #%d
+GPU7 Memory #%d=GPU7 メモリー #%d
+GPU8 Memory #%d=GPU8 メモリー #%d
+GPU9 Memory #%d=GPU9 メモリー #%d
+GPU10 Memory #%d=GPU10 メモリー #%d
+GPU11 Memory #%d=GPU11 メモリー #%d
+GPU12 Memory #%d=GPU12 メモリー #%d
 GPU Memory Core=GPUメモリ
 GPU Memory I/O=GPUメモリI/O
 GPU Ambient=GPU周囲
